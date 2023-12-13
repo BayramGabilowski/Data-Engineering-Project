@@ -1,3 +1,5 @@
+The first step is to set up a cluster on Ubuntu 22.04 within Virtual Box.
+
 One Master node and three Worker nodes :
 
 Hostname      IP Address
